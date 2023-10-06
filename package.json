@@ -1,0 +1,19 @@
+{
+  "name": "sit725-2023-t2-prac5",
+  "version": "1.0.0",
+  "description": "SIT725 T2 Practical5",
+  "main": "dbConnect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hs205/sit725-2023-t2-prac5.git"
+  },
+  "keywords": [
+    "Node",
+    "Express",
+    "Mongodb"
+  ]
+}
